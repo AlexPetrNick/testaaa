@@ -4,6 +4,9 @@ new2 = 'aaaaaa2'
 new3 = 'aaaaaa3'
 
 
+def asd():
+    print('hello')
+
 
 def a():
     a = new2 + new3
