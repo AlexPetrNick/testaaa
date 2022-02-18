@@ -9,6 +9,7 @@ def a():
     a = new2 + new3
     av = 1
     ad = 2
+    a2 = 2
     return a
 
 def b():
