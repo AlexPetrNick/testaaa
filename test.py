@@ -6,7 +6,10 @@ new3 = 'aaaaaa3'
 
 
 def a():
-    pass
+    a = new2 + new3
+    av = 1
+    ad = 2
+    return a
 
 def b():
     return new + new1
